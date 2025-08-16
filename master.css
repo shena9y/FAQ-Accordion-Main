@@ -121,8 +121,8 @@ body .bg {
 }
 
 .container .contant-container img {
-  width: 30px;
-  height: 31px;
+  width: 24px;
+  height: 24px;
 }
 
 .container .contant-container .answer {
@@ -159,3 +159,4 @@ body .bg {
   color: var(--black);
   transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
 }
+

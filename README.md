@@ -1,39 +1,46 @@
-# Frontend Mentor - FAQ accordion
+# FAQ Accordion — Frontend Mentor Solution
 
-## Welcome! 👋
+A solution to the **FAQ accordion** challenge from [Frontend Mentor](https://www.frontendmentor.io). It's an interactive accordion card that answers frequently asked questions about frontend development, with smooth expand/collapse behavior driven by vanilla JavaScript.
 
-Thanks for checking out this front-end coding challenge.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-Challenge-3e54a3)
 
-### The challenge
+## ✨ Features
 
-Users should be able to:
+- ❓ Interactive FAQ accordion — click a question to expand/collapse its answer
+- ➕➖ Plus/minus icon toggling handled in vanilla JavaScript
+- ⭐ Decorative star icon and styled background pattern header
+- 🎯 Hover states on questions per the design spec
+- 📱 Responsive layout with separate desktop/mobile background patterns
 
-- Hide/Show the answer to a question when the question is clicked
-- Navigate the questions and hide/show answers using keyboard navigation alone
-- View the optimal layout for the interface depending on their device's screen size
-- See hover and focus states for all interactive elements on the page
+## 🛠️ Tech Stack
 
-### Screenshot
+- **HTML5** — semantic markup
+- **CSS3** — custom properties, flexbox, media queries
+- **Vanilla JavaScript** — accordion toggle logic & icon swapping
 
-![Screenshot](./images/Screenshot.png)
+## 📂 Project Structure
 
+```
+├── index.html    # Main markup
+├── master.css    # All styles
+├── script.js     # Accordion interactivity
+├── images/       # Icons (star, plus, minus), backgrounds
+└── design/       # Frontend Mentor design references
+```
 
-### Links
+## 🚀 Getting Started
 
-- Solution URL: [FAQ accordion](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz)
-- Live Site URL: [Live Site](https://shena9y.github.io/FAQ-Accordion-Main/)
+No build step required:
 
+```bash
+git clone https://github.com/shena9y/FAQ-Accordion-Main.git
+cd FAQ-Accordion-Main
+start index.html   # or open it in any browser
+```
 
-### Built with
+## 📝 License
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- JavaScript
-
-
-
-## Author
-
-- Website - [Mohammed Hamdy](https://github.com/shena9y)
-- Frontend Mentor - [@shena9y](https://www.frontendmentor.io/profile/shena9y)
+This project is open source and available under the [MIT License](LICENSE).

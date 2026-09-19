@@ -1,4 +1,4 @@
-# FAQ Accordion — Frontend Mentor Solution
+﻿# FAQ Accordion — Frontend Mentor Solution
 
 A solution to the **FAQ accordion** challenge from [Frontend Mentor](https://www.frontendmentor.io). It's an interactive accordion card that answers frequently asked questions about frontend development, with smooth expand/collapse behavior driven by vanilla JavaScript.
 
@@ -6,6 +6,8 @@ A solution to the **FAQ accordion** challenge from [Frontend Mentor](https://www
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-Challenge-3e54a3)
+
+🔗 **Live Demo:** [https://shena9y.github.io/FAQ-Accordion-Main/](https://shena9y.github.io/FAQ-Accordion-Main/)
 
 ## ✨ Features
 
@@ -33,6 +35,8 @@ A solution to the **FAQ accordion** challenge from [Frontend Mentor](https://www
 
 ## 🚀 Getting Started
 
+**Try it live:** [https://shena9y.github.io/FAQ-Accordion-Main/](https://shena9y.github.io/FAQ-Accordion-Main/) — no installation needed!
+
 No build step required:
 
 ```bash
@@ -44,3 +48,4 @@ start index.html   # or open it in any browser
 ## 📝 License
 
 This project is open source and available under the [MIT License](LICENSE).
+
